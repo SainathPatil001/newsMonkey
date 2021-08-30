@@ -1,0 +1,207 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "url":"view-source:https://newsapi.org/v2/top-headlines?country=IN&apiKey=98fb547ae56b4ffebe184d4f2439851f",
+  "articles": [
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "COVID-19 Has More Blood Clot Threat Than Vaccines, Says UK Study: Report - NDTV",
+      "description": "A coronavirus infection presents a much higher risk of developing a blood clot than the first dose of either the Oxford/AstraZeneca or the Pfizer/BioNTech jab, a large study led by the University of Oxford said on Friday.",
+      "url": "https://www.ndtv.com/world-news/covid-19-has-more-blood-clot-threat-than-vaccines-says-uk-study-report-2521140",
+      "urlToImage": "https://c.ndtvimg.com/2021-06/3edhl1f4_coronavirus-generic_625x300_17_June_21.jpg",
+      "publishedAt": "2021-08-27T16:16:01Z",
+      "content": "A coronavirus infection presents a much higher risk of developing a blood clot than the vaccine\r\nLondon: A coronavirus infection presents a much higher risk of developing a blood clot than the first … [+4620 chars]"
+    },
+    {
+      "source": { "id": null, "name": "India.com" },
+      "author": "India.com Sports Desk",
+      "title": "LIVE IND vs ENG Live Cricket Score 3rd Test Today, Day 3 Latest Updates: Pujara Slams Fifty, Kohli Solid to L - India.com",
+      "description": "Check India vs England 2021 3rd Test Day 3 Live Score, IND vs ENG Live Streaming Cricket From Leeds here. Also, see India vs England Live Cricket Score 3rd Test and Day 3 Updates here.",
+      "url": "https://www.india.com/sports/live-cricket-score-ind-vs-eng-3rd-test-day-3-updates-live-ball-by-ball-commentary-india-vs-england-live-streaming-cricket-match-sonyliv-video-jiotv-sonysix-leeds-pujara-kohli-ind-trail-eng-rohit-out-r-4916402/",
+      "urlToImage": "https://static.india.com/wp-content/uploads/2021/08/IND-vs-ENG-Live-Score-3rd-Test-Day-3-Live-Updates_India-vs-England-Live-Match-Streaming-Cricket-SonyLIV-JIOTV-SonySix.jpg",
+      "publishedAt": "2021-08-27T15:51:42Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "'Told my leader everything': CM Baghel meets Rahul amid Chhattisgarh leadership tussle - Times of India",
+      "description": "India News: Amid an ongoing power tussle in the ruling Congress in Chhattisgarh, chief minister Bhupesh Baghel on Friday said that he has told Congress leader Rah",
+      "url": "https://timesofindia.indiatimes.com/india/have-told-my-leader-everything-discussed-states-politics-schemes-bhupesh-baghel-amid-tussle-for-cms-post/articleshow/85689718.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-85689794,width-1070,height-580,imgsize-77326,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-08-27T15:01:00Z",
+      "content": "'Told my leader everything': CM Baghel meets Rahul amid Chhattisgarh leadership tussle\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>'Told my leader everything': CM Baghel meets Rahul amid Chhattisgar… [+28 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "hindustantimes.com",
+      "title": "Taliban-Haqqani-Al Qaeda: What experts think is happening in Afghanistan - Hindustan Times",
+      "description": "According to experts, the Kabul airport blast was an attempt by ISIS-K's stature in the jihadist world at a time when their apparent rival the Taliban is officially pledging for peace. | World News",
+      "url": "https://www.hindustantimes.com/world-news/talibanhaqqanial-qaeda-what-experts-think-is-happening-in-afghanistan-101630074869001.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/08/27/1600x900/AFGHANISTAN-CONFLICT--1_1630075314762_1630075341453.JPG",
+      "publishedAt": "2021-08-27T14:47:26Z",
+      "content": "The blasts near Kabul airport on Thursday which the Taliban have officially condemned is a major jolt to both the United States and the Taliban, experts have said. The attack by the ISIS-Khorasan pro… [+2491 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Sports Desk",
+      "title": "Manchester United lead race to sign Cristiano Ronaldo after City drop out - The Indian Express",
+      "description": "According to reports, Cristiano Ronaldo has told his agent Jorge Mendes that he's open to rejoining Manchester United, where he had spent six seasons before moving to Real Madrid in 2009.",
+      "url": "https://indianexpress.com/article/sports/football/cristiano-ronaldo-manchester-united-city-transfer-news-7474038/",
+      "urlToImage": "https://images.indianexpress.com/2021/08/ronaldo-juventus.jpg",
+      "publishedAt": "2021-08-27T14:33:55Z",
+      "content": "As per media reports, Manchester United lead the race to bring Portugal star Cristiano Ronaldo back to the Premier League in this summer transfer window.According to journalist Fabrizio Romano, the 3… [+1992 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "50% adults given at least one dose: India's vaccination progress in 5 charts - Times of India",
+      "description": "India News: NEW DELHI: India on Thursday crossed the landmark milestone of administering at least one dose of Covid vaccine to 50% of its adult population.",
+      "url": "https://timesofindia.indiatimes.com/india/50-adults-given-at-least-one-dose-indias-vaccination-progress-in-5-charts/articleshow/85686590.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-85689260,width-1070,height-580,imgsize-44360,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-08-27T14:29:00Z",
+      "content": "1.6 crore people in India have missed their 2nd shotAt least 1.6 crore people in India are yet to get second shot of the Covid vaccine 16 weeks after their first, the longest recommended gap between … [+151 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Bloomberg",
+      "title": "Jerome Powell says taper could start in 2021, with no rush on rate hike - Economic Times",
+      "description": "At the Feds most recent policy meeting in late July, “I was of the view, as were most participants, that if the economy evolved broadly as anticipated, it could be appropriate to start reducing the pace of asset purchases this year,” Powell said.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jerome-powell-says-taper-could-start-in-2021-with-no-rush-on-rate-hike/articleshow/85689269.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-85689256,width-1070,height-580,imgsize-479857,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2021-08-27T14:25:00Z",
+      "content": "Federal Reserve Chair Jerome Powell said the central bank could begin reducing its monthly bond purchases this year, though it wont be in a hurry to begin raising interest rates thereafter.\r\nThe econ… [+5144 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Express News Service",
+      "title": "Wuhan study finds some hospitalised patients still have health problems after a year: The Lancet - The Indian Express",
+      "description": "Around one in three patients still experience shortness of breath, while lung impairments persisted in some patients, especially those who had experienced the most severe illness with Covid-19.",
+      "url": "https://indianexpress.com/article/cities/pune/wuhan-study-finds-some-hospitalised-patients-still-have-health-problems-after-a-year-the-lancet-7474055/",
+      "urlToImage": "https://images.indianexpress.com/2021/08/black-fungus-3.jpg",
+      "publishedAt": "2021-08-27T14:20:22Z",
+      "content": "Most symptoms of Covid-19 in hospitalised patients are resolved within 12 months, however, around one half still experience at least one persistent symptom, a study of 1,276 patients from Wuhan, Chin… [+3812 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": "Satvik Khare",
+      "title": "Moto E20 Specifications Tipped by Alleged Geekbench Listing, May Come With Unisoc SoC - Gadgets 360",
+      "description": "Moto E20 may launch soon as it has been spotted on a Geekbench listing. The listing also suggests that it may come with a Unisoc SoC paired with 2GB of RAM. It may also run Android 11 out-of-the-box. Earlier this week, notable tipster Evan Blass (@evleaks) sh…",
+      "url": "https://gadgets.ndtv.com/mobiles/news/moto-e20-specifications-geekbench-listing-unisoc-soc-android-11-2gb-ram-2520928",
+      "urlToImage": "https://i.gadgets360cdn.com/large/motorola_smartphone_renders_front_back_evleaks_twitter_1629358266721.jpg",
+      "publishedAt": "2021-08-27T13:30:48Z",
+      "content": "Moto E20 (codenamed Aruba) may launch soon as appears to have surfaced in a Geekbench listing. The listing also suggests some key specifications of the upcoming budget-friendly smartphone. The exact … [+1637 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Moneycontrol" },
+      "author": null,
+      "title": "M-cap of BSE-listed companies rises to record Rs 243.73 lakh crore - Moneycontrol.com",
+      "description": "The BSE benchmark Sensex climbed 175.62 points to close above the 56,000-mark for the first time on Friday. During the day, it gained 239.13 points to 56,188.23.",
+      "url": "https://www.moneycontrol.com/news/business/markets/m-cap-of-bse-listed-companies-rises-to-record-rs-243-73-lakh-crore-7398791.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/07/rupee-653x435.jpg",
+      "publishedAt": "2021-08-27T13:29:46Z",
+      "content": "The market capitalisation of BSE-listed companies jumped to an all-time high of Rs 2,43,73,800.36 crore on Friday, driven by an upbeat sentiment in equities.\r\nThe BSE benchmark Sensex climbed 175.62 … [+1276 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Express Web Desk",
+      "title": "‘Allow me freedom to take decisions, else…’: Navjot Singh Sidhu tells Congress leadership - The Indian Express",
+      "description": "Sidhu was appointed as the Punjab Congress chief last month amid a longstanding rift with Chief Minister Amarinder Singh.",
+      "url": "https://indianexpress.com/article/india/allow-freedom-to-take-decisions-navjot-singh-sidhu-congress-7473762/",
+      "urlToImage": "https://images.indianexpress.com/2021/08/Sidhu-4.jpg",
+      "publishedAt": "2021-08-27T13:08:20Z",
+      "content": "Punjab Congress chief Navjot Singh Sidhu on Friday urged the party leadership to allow him freedom to take decisions and warned of a “befitting reply” if demand was not heard, news agency PTI reporte… [+2138 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Livemint" },
+      "author": "Livemint",
+      "title": "SEBI bans Kotak Mahindra AMC from launching new FMP schemes for 6 months - Mint",
+      "description": "The market watchdog has also imposed a penalty of  ₹50 lakh on Kotak Mahindra AMC, which is to be paid within 45 days",
+      "url": "https://www.livemint.com/mutual-fund/mf-news/sebi-bans-kotak-mahindra-amc-from-launching-new-fmp-schemes-for-6-months-11630067614716.html",
+      "urlToImage": "https://images.livemint.com/img/2021/08/27/600x338/f2fde718-f928-11eb-81ba-0cfd3560c0c0_1630067750815_1630067778428.jpg",
+      "publishedAt": "2021-08-27T12:39:56Z",
+      "content": "Market regulator SEBI has banned Kotak Mahindra Asset Management Company from launching new fixed maturity plan (FMP) schemes for the next six months. The action came against delay in payment of full… [+2964 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "PTI",
+      "title": "Bhavinaben Patel scripts history, becomes first Indian Table Tennis player to secure medal in Paralympics - Times of India",
+      "description": "Tokyo Paralympics News: Bhavinaben Patel on Friday scripted history by becoming the first Indian table tennis player to secure a medal in the Paralympics after she entered th",
+      "url": "https://timesofindia.indiatimes.com/sports/tokyo-paralympics/tokyo-paralympics-paddler-bhavina-defeats-defending-champion-rankovic-storms-into-semis/articleshow/85685859.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-85685903,width-1070,height-580,imgsize-32392,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-08-27T12:32:00Z",
+      "content": "Bhavina In Semifinal!!@BhavinaPatel6 wins her Class 4 Quarterfinal match 3-0 (11-5, 11-6, 11-7) against #SRB Bori https://t.co/BgWQMK8wwu\r\n— SAI Media (@Media_SAI) 1630061366000"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "How can we curb vaccine hesitancy among women? - Times of India",
+      "description": "Figures imply that vaccine hesitancy in women is higher than in men. This can become detrimental in our battle agai",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/how-can-we-curb-vaccine-hesitancy-among-women/articleshow/85686638.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-85686638,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-54530/85686638.jpg",
+      "publishedAt": "2021-08-27T12:30:00Z",
+      "content": "Its been seven months since India started the worlds largest vaccination drive against Coronavirus. Slowly and steadily, we as a nation are making every effort to win our war against COVID19. Current… [+4612 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Bollywood Life" },
+      "author": "BollywoodLife",
+      "title": "Bigg Boss OTT: Divya Agarwal hits out over Karan Johar's allegations, 'Tum maante ho ki tum Bollywood ke raja - Bollywood Life",
+      "description": "Letting out her feelings to Akshara Singh, Divya Agarwal said that Karan Johar has no right to pass his judgements about her on the show when he personally doesn't know her.",
+      "url": "https://www.bollywoodlife.com/bigg-boss/bigg-boss-ott-divya-agarwal-hits-out-over-karan-johars-allegations-tum-maante-ho-ki-tum-bollywood-ke-raja-ho-1903007/",
+      "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2021/08/Divya-3-600x315.png",
+      "publishedAt": "2021-08-27T12:29:25Z",
+      "content": "Divya Agarwal recently had an emotional breakdown in the Bigg Boss OTT house after her connection Zeeshan Khan got ousted for getting physical with Pratik Sehajpal during the flag task. She couldn't … [+2133 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Samsung Galaxy Z Fold 3 review - Engadget",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Rnhyazh4aWREeXPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-08-27T12:00:05Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Weather Channel" },
+      "author": null,
+      "title": "NASA's James Webb Space Telescope Successfully Completes Final Testing; Ready for Shipment to Launch Site | The Weather Channel - Articles from The Weather Channel | weather.com - The Weather Channel",
+      "description": "The telescope is now being prepared for shipment to its launch site, and will be completed in September, NASA said in a statement on Thursday. - Articles from The Weather Channel | weather.com",
+      "url": "https://weather.com/en-IN/india/space/news/2021-08-27-nasa-james-webb-space-telescope-completes-final-testing",
+      "urlToImage": "https://s.w-x.co/in-james%20webb%20telescope%20.jpg",
+      "publishedAt": "2021-08-27T11:33:11Z",
+      "content": "NASA's much-awaited James Webb Space Telescope has successfully completed its final tests, the US space agency has said. Engineering teams have completed Webb's long-spanning comprehensive testing re… [+2744 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Livemint" },
+      "author": "Livemint",
+      "title": "JioPhone Next pre-bookings to open next week: Report - Mint",
+      "description": "Reliance Jio is said to have initiated talks with retail partners for JioPhone Next pre-bookings, and more information will be conveyed to them in coming days",
+      "url": "https://www.livemint.com/technology/tech-news/jiophone-next-pre-bookings-to-open-next-week-report-11630061874821.html",
+      "urlToImage": "https://images.livemint.com/img/2021/08/27/600x338/jiophone_next_1630062592987_1630062603513.jpg",
+      "publishedAt": "2021-08-27T11:30:04Z",
+      "content": "JioPhone Next, the extremely affordable smartphone developed by Reliance Jio and Google, will be available for pre-booking from next week, according to a report. This will be days before the phone br… [+1754 chars]"
+    },
+    {
+      "source": { "id": null, "name": "India.com" },
+      "author": "Zee Media Bureau",
+      "title": "#UninstallHotstar: Netizens slam streaming platform`s new show The Empire for glorifying Mughals - Zee News",
+      "description": "The streaming giant Disney+ Hotstar is in big trouble among netizens after the release of its brand new series  The Empire . Many viewers have protested against the glorification of Mughals in the show and called for other  nationalists  to boycott the show a…",
+      "url": "https://zeenews.india.com/entertainment/web-series/uninstallhotstar-netizens-slam-streaming-platforms-new-show-the-empire-for-glorifying-mughals-2388976.html",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2021/08/27/965067-the-empire-hotstar.jpg",
+      "publishedAt": "2021-08-27T11:24:21Z",
+      "content": "New Delhi: The streaming giant Disney+ Hotstar is in big trouble among netizens after the release of its brand new series 'The Empire'. Many viewers have protested against the glorification of Mughal… [+2399 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": "Bishal Kalita",
+      "title": "Delhi Schools, Colleges, Coaching Institutes To Reopen In September: Manish Sisodia - NDTV",
+      "description": "Delhi School reopen latest news: Schools in Delhi will reopen on September 1, for Classes 9 to 12. Coaching classes, Colleges and Universities will also be permitted to reopen on September 1, Delhi Deputy Chief Minister Manish Sisodia said.",
+      "url": "https://www.ndtv.com/education/delhi-schools-colleges-coaching-institutes-reopen-in-september-manish-sisodia",
+      "urlToImage": "https://cache.careers360.mobi/media/article_images/2021/8/27/manish-sisodia-ndtv-file.jpeg",
+      "publishedAt": "2021-08-27T11:16:45Z",
+      "content": "New Delhi:The Delhi government has allowed phased resumption of teaching-learning activities in Schools, Colleges and coaching institutes, with physical classes for Classes 9 to 12 to begin with. Sch… [+1587 chars]"
+    }
+  ]
+}
