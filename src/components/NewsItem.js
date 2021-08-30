@@ -18,9 +18,9 @@ export class NewsItem extends Component {
           <a rel="noreferrer" href={newsUrl} className="btn btn-sm btn-primary" target="_blank">
             Read More
           </a>
-          <span class="position-absolute top-0  translate-middle badge rounded-pill bg-danger" style={{left:"91%",zIndex:1}}>
+          <span className="position-absolute top-0  translate-middle badge rounded-pill bg-danger" style={{left:"91%",zIndex:1}}>
     {source}
-    <span class="visually-hidden">unread messages</span>
+    <span className="visually-hidden">unread messages</span>
   </span>
         </div>
       </div>

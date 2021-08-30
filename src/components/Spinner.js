@@ -3,8 +3,8 @@ import spinner from '../loader.gif'
 export default class Spinner extends Component {
     render() {
         return (
-            <div className="d-flex justify-content-center align-items-center ">
-                 <img src={spinner} alt="loading"  />
+            <div className="d-flex justify-content-center align-items-center my-3 ">
+                 <img src={spinner} alt="loading"   />
             </div>
         )
     }

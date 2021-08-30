@@ -41,8 +41,8 @@ export default class App extends Component {
            
           </Route>
 
-          <Route path="/buisness" exact>
-          <News key="business"pageSize={6} country={"in"} category={"business"}/>
+          <Route path="/business" exact>
+          <News key="business" pageSize={6} country={"in"} category={"business"}/>
            
           </Route>
         </Switch>
