@@ -4,7 +4,7 @@ export class NewsItem extends Component {
 
 
   render() {
-    let { title, description,imageUrl,newsUrl,author,date} = this.props;
+    let { title, description,imageUrl,newsUrl,author,date,source} = this.props;
     return (
       <div className="card" >
         <img src={imageUrl?imageUrl:"https://i.gadgets360cdn.com/large/microsoft_clippy_twitter_1626334118424.jpg"} className="card-img-top" alt="..." />
@@ -18,6 +18,10 @@ export class NewsItem extends Component {
           <a rel="noreferrer" href={newsUrl} className="btn btn-sm btn-primary" target="_blank">
             Read More
           </a>
+          <span class="position-absolute top-0  translate-middle badge rounded-pill bg-danger" style={{left:"91%",zIndex:1}}>
+    {source}
+    <span class="visually-hidden">unread messages</span>
+  </span>
         </div>
       </div>
     );

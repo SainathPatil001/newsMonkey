@@ -23,7 +23,8 @@ export class News extends Component {
     this.state = { articles: [], loading: true ,page:1,totalResults:0};
   }
 
-  async componentDidMount() {
+
+  async updateNews(){
     this.setState({loading:true})
     let url =
       `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=ac89da4ef4524484b5106b2e12e64609&page=${this.state.page}&pageSize=${this.props.pageSize}`;
@@ -32,28 +33,24 @@ export class News extends Component {
     let data = await fetch(url);
     let parsedData = await data.json();
     this.setState({ articles: parsedData.articles , totalResults:parsedData.totalResults,loading:false});
-
-
+  }
+  async componentDidMount() {
+      this.updateNews()
 
   }
   handlePreviousClick=async()=>{
-    this.setState({loading:true})
-    let url =
-    `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=ac89da4ef4524484b5106b2e12e64609&page=${this.state.page-1}&pageSize=${this.props.pageSize}`;
+          this.setState({page:this.state.page-1},()=>{
+            this.updateNews();
 
-  let data = await fetch(url);
-  let parsedData = await data.json();
-  this.setState({ articles: parsedData.articles ,page:this.state.page-1,loading:false});
+          });
   }
 
   handleNextClick=async()=>{
-    this.setState({loading:true})
-    let url =
-    `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=ac89da4ef4524484b5106b2e12e64609&page=${this.state.page+1}&pageSize=${this.props.pageSize}`;
-
-  let data = await fetch(url);
-  let parsedData = await data.json();
-  this.setState({ articles: parsedData.articles ,page:this.state.page+1,loading:false});
+            
+    this.setState({page:this.state.page+1},()=>{
+      this.updateNews();
+      })
+ 
 
     }
   render() {
@@ -66,7 +63,7 @@ export class News extends Component {
         <div className="row">
           {!this.state.loading&& this.state.articles&&this.state.articles.map((item) => {
             return (
-              <div className="col-md-4 my-1" key={item.url}>
+              <div className="col-md-4 my-2" key={item.url}>
                 <NewsItem
                   title={item.title}
                   imageUrl={item.urlToImage}
@@ -77,6 +74,7 @@ export class News extends Component {
 
                   author={item.author}
                   date={item.publishedAt}
+                  source={item.source.name}
                 />
 
            
