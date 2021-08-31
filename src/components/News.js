@@ -3,7 +3,6 @@ import NewsItem from "./NewsItem";
 import Spinner from "./Spinner";
 import PropTypes from 'prop-types'
 import InfiniteScroll from "react-infinite-scroll-component";
-
 export class News extends Component {
 
 
@@ -13,7 +12,7 @@ export class News extends Component {
        pageSize:6,
        category:"science"
   }
-
+  
   static propTypes={
     country:PropTypes.string,
     category:PropTypes.string,
@@ -30,14 +29,21 @@ export class News extends Component {
      return string.charAt(0).toUpperCase()+string.slice(1);
    }
   async updateNews(){
+
+    this.props.setProgress(10);
     this.setState({loading:true})
     let url =
-      `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=ac89da4ef4524484b5106b2e12e64609&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+      `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     
       
     let data = await fetch(url);
+    this.props.setProgress(30);
+
     let parsedData = await data.json();
+    this.props.setProgress(70);
+
     this.setState({ articles: parsedData.articles , totalResults:parsedData.totalResults,loading:false});
+    this.props.setProgress(100);
   }
   async componentDidMount() {
       this.updateNews()
@@ -47,21 +53,6 @@ export class News extends Component {
   componentDidUpdate(){
 
   }
-  handlePreviousClick=async()=>{
-          this.setState({page:this.state.page-1},()=>{
-            this.updateNews();
-
-          });
-  }
-
-  handleNextClick=async()=>{
-            
-    this.setState({page:this.state.page+1},()=>{
-      this.updateNews();
-      })
- 
-
-    }
 
     fetchMoreData=async()=>{
 
@@ -74,8 +65,6 @@ export class News extends Component {
     let parsedData = await data.json();
    
     this.setState({ articles: this.state.articles.concat(parsedData.articles) , totalResults:parsedData.totalResults,loading:false});
-    console.log(this.state.articles.length);
-    console.log(this.state.totalResults);
   }
   render() {
 
