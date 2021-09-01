@@ -1,10 +1,10 @@
-import React, { Component } from "react";
+import React from "react";
 
-export class NewsItem extends Component {
+export const  NewsItem  =(props)=>{
 
 
-  render() {
-    let { title, description,imageUrl,newsUrl,author,date,source} = this.props;
+ 
+    let { title, description,imageUrl,newsUrl,author,date,source} = props;
     return (
       <div className="card" >
         <img src={imageUrl?imageUrl:"https://i.gadgets360cdn.com/large/microsoft_clippy_twitter_1626334118424.jpg"} className="card-img-top" alt="..." />
@@ -26,6 +26,6 @@ export class NewsItem extends Component {
       </div>
     );
   }
-}
+
 
 export default NewsItem;
